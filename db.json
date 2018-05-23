@@ -1,0 +1,9 @@
+{
+	"idUnico": "string",
+	"type": "string",
+	"data": 
+		{
+			"title": "string",
+			"body": "string"
+		}
+}
